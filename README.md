@@ -13,3 +13,6 @@ https://huggingface.co/spaces/Jacopo/ToonClip
 
 https://huggingface.co/Jacopo/ToonClip
 
+## Example images from untrained FFHQ validation set:
+
+![alt text](sammples.jpg)
