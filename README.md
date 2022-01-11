@@ -5,6 +5,10 @@ Style Transfer a face into cartoon without GAN.  A UNet++ network with MobileNet
 
 This is the model used by the **ToonClip** iOS App available on Apple App Store at https://apps.apple.com/us/app/toonclip/id1536285338
 
+This app use this model for picture and live video style transfer.
+
+![alt text](video.mov)
+
 ## HuggingFace Spaces Demo
 
 https://huggingface.co/spaces/Jacopo/ToonClip
