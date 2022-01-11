@@ -7,7 +7,7 @@ This is the model used by the **ToonClip** iOS App available on Apple App Store 
 
 This app use this model for picture and live video style transfer.
 
-![alt text](video.mov)
+![ToonClip app video](video.mp4)
 
 ## HuggingFace Spaces Demo
 
@@ -19,4 +19,4 @@ https://huggingface.co/Jacopo/ToonClip
 
 ## Example images from untrained FFHQ validation set:
 
-![alt text](samples.jpg)
+![sample images](samples.jpg)
