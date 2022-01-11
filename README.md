@@ -15,4 +15,4 @@ https://huggingface.co/Jacopo/ToonClip
 
 ## Example images from untrained FFHQ validation set:
 
-![alt text](sammples.jpg)
+![alt text](samples.jpg)
